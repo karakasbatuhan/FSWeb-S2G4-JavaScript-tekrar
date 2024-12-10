@@ -154,7 +154,7 @@ console.log(tekraredensayilar);
 /*  Bu satırın aşağısındaki kodları lütfen değiştirmeyin  */
 
 function sa() {
-  console.log("Kodlar çalışıyor");
+  console.log("Kodlar calisiyor");
   return "as";
 }
 sa();
